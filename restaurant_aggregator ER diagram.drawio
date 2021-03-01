@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T14:01:16.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Q6ROfRklL9Lel5YIkNYC" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T14:04:12.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="9URQafNNcClECzPsMbYv" version="14.4.2" type="github">
   <diagram id="ATp6TMmyWoH9TD7Tf0jV" name="Page-1">
-    <mxGraphModel dx="2035" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,6 +384,9 @@
         </mxCell>
         <mxCell id="YEr0zcpAk82phxums105-2" value="HAS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581.25" y="420" width="57.5" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="YEr0zcpAk82phxums105-3" value="ER Diagram of RESTAURANT_AGGREGATOR&amp;nbsp; PORTAL( EG. Zomato)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="-150" width="965" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
